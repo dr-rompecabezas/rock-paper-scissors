@@ -178,7 +178,6 @@ iocaine = None
 
 def player(prev_play):
     global iocaine
-
     mapRPS = {'R': 0, 'P': 1, 'S': 2}
     reverse_mapRPS = {0: 'R', 1: 'P', 2: 'S'}
 
